@@ -34,12 +34,10 @@ The dataset consists of 2357 images of malignant and benign oncological diseases
   - Choose an appropriate optimiser and loss function for model training
   - Train the model for ~20 epochs
   - Write your findings after the model fit, see if the earlier issue is resolved or not?
-
-**Class distribution: **
+**Class Distribution:** 
   - Examine the current class distribution in the training dataset 
   - Which class has the least number of samples?
   - Which classes dominate the data in terms of the proportionate number of samples?
-
 **Handling class imbalances:** 
   - Rectify class imbalances present in the training dataset with Augmentor library.
 
